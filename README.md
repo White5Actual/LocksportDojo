@@ -1,8 +1,6 @@
 
 # Locksport Dojo (Dojo Pro)
 
-![Dojo Pro Screenshot](image_ba9870.png)
-
 **Locksport Dojo** (Dojo Pro) is a dedicated digital logbook and training companion for lock picking enthusiasts. It runs on the **ESP32 "Cheap Yellow Display" (CYD)**, turning a low-cost development board into a standalone locksport operating system.
 
 ## 🎯 Features
